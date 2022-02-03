@@ -25,7 +25,7 @@ Usage:
 ./WPS-Reset-mdk3.sh
 
 (enter the target network information)
-Write and save -> <ESSID> <BSSID> <Ch> <iface>
+<ESSID> <BSSID> <Ch> <iface>
 
 (yes, or you will attack later..)
 
