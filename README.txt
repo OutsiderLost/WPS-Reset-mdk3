@@ -8,6 +8,9 @@ Effective against: TP-* Ar* types (not only with old models)!
 
 Install:
 
+(other addiction)
+git clone https://github.com/hash3liZer/wifijammer.git
+
 git clone https://github.com/OutsiderLost/WPS-Reset-mdk3.git
 
 cd WPS-Reset-mdk3
@@ -27,4 +30,3 @@ Write and save -> <ESSID> <BSSID> <Ch> <iface>
 (yes, or you will attack later..)
 
 -----------------------------
-
